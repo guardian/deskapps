@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Guardian Deskapp
+Icon=guardiandeskapp
+Exec=/opt/GuardianDeskapp/GuardianDeskapp
+Comment=The Guardian.com for Desktop
+Categories=Network;Chat;
+Terminal=false
